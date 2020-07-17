@@ -7,5 +7,5 @@ I'm a front-end developer  based in Munich (DE) and focus on crafting awesome-lo
 I am passionate about the web and its technologies and love creating things.
 My goal it to always build intuitive products that bring joy to the people using them.
 
-📫 How to reach me: hansmann.f@gmail.com
+📫 How to reach me: hansmann.f(at)gmail.com
 
