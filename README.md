@@ -9,6 +9,6 @@ My goal it to always build intuitive products that bring joy to the people using
 
 📫 How to reach me: hansmann.f@gmail.com
 
-<br>
-<a href="https://twitter.com/f_hansmann"
-  <img align="left" alt="Florian Hansmann" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/f_hansmann>
+  <img align="left" alt="Florian Hansmann | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
